@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://humesces.github.io/sitemap.html.gz
+Sitemap: https://humesces.github.io/app/sitemap.html.gz
+Sitemap: https://humesces.github.io/assets/sitemap.html.gz
+Sitemap: https://humesces.github.io/css/sitemap.html.gz
+Sitemap: https://humesces.github.io/includes/sitemap.html.gz
+Sitemap: https://humesces.github.io/item/sitemap.html.gz
+Sitemap: https://humesces.github.io/src/sitemap.html.gz
